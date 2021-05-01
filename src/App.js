@@ -28,7 +28,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <p>Hooks in React</p>
+      <h1>Hooks in React</h1>
       <br />
       {/*two ways to setCount */}
 
